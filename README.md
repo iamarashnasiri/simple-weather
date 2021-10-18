@@ -11,4 +11,3 @@ using location API and weather API
 -   document.getElementByID
 
 Arash Nasiri - 2021
-
